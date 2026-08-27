@@ -11,3 +11,8 @@ from there you will be able to join active members
 
 ### coming soon
 a chat messenger where you can be told who to join and where to go
+
+### mw4 info
+go here: https://github.com/legionoftheorb/MW4
+- maps
+- basic readme
