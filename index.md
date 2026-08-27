@@ -13,6 +13,6 @@ from there you will be able to join active members
 a chat messenger where you can be told who to join and where to go
 
 ### mw4 info
-go here: <a href="https://github.com/legionoftheorb/mw4">mw4 info</a>
+go here: <a href="https://legionoftheorb.github.io/MW4/">mw4 info</a>
 - maps
 - basic readme
