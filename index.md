@@ -10,4 +10,4 @@ that will be in the form of adding more users
 from there you will be able to join active members
 
 ### coming soon
-a chat messenger with custodians who will tell you where to go
+a chat messenger where you can be told who to join and where to go
