@@ -1,4 +1,4 @@
-# Legion of the orb
+
 this is where stuff about the clan goes
 
 ### how to sign up
